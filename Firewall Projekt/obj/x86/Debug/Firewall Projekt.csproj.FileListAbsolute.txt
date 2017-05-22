@@ -1,0 +1,31 @@
+C:\Dokumente und Einstellungen\D013\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Firewall Projekt\bin\Debug\Firewall Projekt.exe
+C:\Dokumente und Einstellungen\D013\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Firewall Projekt\bin\Debug\Firewall Projekt.pdb
+C:\Dokumente und Einstellungen\D013\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Firewall Projekt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\D013\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Firewall Projekt\obj\x86\Debug\Firewall_Projekt.Form1.resources
+C:\Dokumente und Einstellungen\D013\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Firewall Projekt\obj\x86\Debug\Firewall_Projekt.Properties.Resources.resources
+C:\Dokumente und Einstellungen\D013\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Firewall Projekt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\D013\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Firewall Projekt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\D013\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Firewall Projekt\obj\x86\Debug\Firewall Projekt.exe
+C:\Dokumente und Einstellungen\D013\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Firewall Projekt\obj\x86\Debug\Firewall Projekt.pdb
+G:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall Projekt.exe
+G:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall Projekt.pdb
+G:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\bin\Debug\Firewall Projekt.exe
+G:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\bin\Debug\Firewall Projekt.pdb
+G:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall_Projekt.Form1.resources
+G:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall_Projekt.Properties.Resources.resources
+G:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall Projekt.csproj.GenerateResource.Cache
+D:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall Projekt.exe
+D:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall Projekt.pdb
+D:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\bin\Debug\Firewall Projekt.exe
+D:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\bin\Debug\Firewall Projekt.pdb
+D:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall_Projekt.Form1.resources
+D:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall_Projekt.Properties.Resources.resources
+D:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall Projekt.csproj.GenerateResource.Cache
+H:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall Projekt.exe
+H:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall Projekt.pdb
+H:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\bin\Debug\Firewall Projekt.exe
+H:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\bin\Debug\Firewall Projekt.pdb
+H:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall_Projekt.Form1.resources
+H:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall_Projekt.Properties.Resources.resources
+H:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall Projekt.csproj.GenerateResource.Cache
+G:\BxT2\Projekt\Firewall Projekt\Firewall Projekt\obj\x86\Debug\Firewall Projekt.csprojResolveAssemblyReference.cache
